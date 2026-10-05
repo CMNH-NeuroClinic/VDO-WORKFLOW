@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+*.mxf
+*.braw
+*.drp
+**/02-consent/*
+!templates/**/02-consent/CONSENT-LOG.txt
