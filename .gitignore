@@ -5,3 +5,4 @@
 *.drp
 **/02-consent/*
 !templates/**/02-consent/CONSENT-LOG.txt
+node_modules/

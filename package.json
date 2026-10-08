@@ -1,0 +1,23 @@
+{
+  "name": "vdo-workflow",
+  "version": "1.0.0",
+  "description": "คู่มือและเทมเพลตงานวิดีโอแนวตั้งของ 6 เพจ (CMP, CHC, TQL, CNH, NRC, MKM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMNH-NeuroClinic/VDO-WORKFLOW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMNH-NeuroClinic/VDO-WORKFLOW/issues"
+  },
+  "homepage": "https://github.com/CMNH-NeuroClinic/VDO-WORKFLOW#readme",
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
